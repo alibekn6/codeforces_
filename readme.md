@@ -1,8 +1,4 @@
-          _  _  _            _           ___  
-         | |(_)| |          | |         / _ \ 
-    __ _ | | _ | |__    ___ | | __ _ __| (_) |
-   / _` || || || '_ \  / _ \| |/ /| '_ \\__, |
-  | (_| || || || |_) ||  __/|   < | | | | / / 
-   \__,_||_||_||_.__/  \___||_|\_\|_| |_|/_/  
-                                             
-                                             
+<h1>Hello it's my codeforces repo</h1>
+
+<code>c++ main.cpp</code>
+<img url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
