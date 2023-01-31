@@ -15,7 +15,9 @@ int main()
         temp += s[i];
     }
 
-    // if ()
+    string res;
+    res = (temp == t) ? "YES" : "NO";
+    cout << res;
 
 }
 
