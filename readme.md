@@ -6,14 +6,3 @@
 #   \__,_||_||_||_.__/  \___||_|\_\|_| |_|/_/  
                                              
                                              
-
-
-def fact(n):
-    if (n == 0):
-        return 1
-    else:
-        return n * fact(n - 1)
-
-
-n = int(input())
-print(fact(n))
