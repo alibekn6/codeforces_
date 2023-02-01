@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
-{
+{// narko iibwe23fsf sell!!
     int t;
     cin >> t;
     while (t-- > 0) {
